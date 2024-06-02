@@ -1,0 +1,58 @@
+{
+    "dept_dictionary": {
+      "ACCTG": ["Accounting"],
+      "ANTH": ["Anthropology", "Archaeology Concentration"],
+      "ART / AH": ["Art Practice", "Art History", "Art Theory and Criticism"],
+      "BIOCHEM": ["Biochemistry"],
+      "BIOL": ["Biology"],
+      "BSAN": ["Business Analytics", "Blockchain"],
+      "BUSAD": ["Business Administration", "Entrepreneurship Concentration", "Intercultural-Interfaith Leadership", "Executive MBA", "Online MBA", "Professional MBA", "Management & Technology", "Mba", "M.B.A", "MBA", "Business", "Management"],
+      "CHEM": ["Chemistry", "Chemistry Environmental Track"],
+      "CLSL": ["Classical Languages", "Greek", "Latin", "Classical Studies"],
+      "COMM": ["Communication: Media Maker Concentration", "Communication: Strategist Concentration", "Cinematic Arts", "Communication", "Community Media", "Digital Studies", "Intercultural Communication"],
+      "CS": ["Computer Science"],
+      "DANCE": ["Dance", "Dance Science", "Dance: Choreography and Performance Concentration", "Latin Dance"],
+      "DATA": ["Data Science"],
+      "ECON": ["Economics", "Economics: International and Development Concentration", "Economics: Sustainability Concentration"],
+      "EES": ["Environmental Science", "Environment"],
+      "ENGL": ["English", "Creative Writing", "Film Drama & Cultural Studies Concentration", "Literary Theory & History", "Creative Writing"],
+      "ES": ["Ethnic Studies"],
+      "FIN": ["Finance"],
+      "GRS": ["Global and Regional Studies: East Asia Concentration", "Global and Regional Studies: Europe Concentration", "Global and Regional Studies: Global Studies Concentration", "Global and Regional Studies: Latin America Concentration"],
+      "HIST": ["History", "Public History"],
+      "HS": ["Health Science", "Nursing", "Health"],
+      "INTEG": ["Integral Curriculum of Liberal Arts"],
+      "JCL": ["Justice, Community, and Leadership: Education Studies Concentration", "Justice, Community, and Leadership: Educational Specialist Teacher Education", "Justice, Community, and Leadership: Leadership Concentration", "Justice, Community, and Leadership: Multiple Subject Teacher Education", "Justice, Community, and Leadership", "Justice, Community, and Leadership: Single Subject 4+1", "JCL", "Justice, Community, and Leadership"],
+      "KINES": ["Kinesiology: Exercise Science", "Kinesiology: Health Promotion", "Kinesiology: Sport Management", "Kinesiology", "Sports Studies"],
+      "LDSH": ["Leadership"],
+      "MATH": ["Mathematics 4+1 Secondary Teaching Program", "Mathematics: Applied Concentration", "Mathematics: Pure Concentration", "Secondary Teaching without Participating in the 4+1 Program", "Mathematics"],
+      "MKT": ["Marketing"],
+      "MUSIC": ["Music: Instrumental Concentration", "Music: Vocal Concentration", "Music, Instrumental", "Music, Vocal"],
+      "ORB": ["Organizations and Responsible Business: Management and Leadership", "Organizations and Responsible Business"],
+      "PERFA": ["Performing Arts: Dance", "Performing Arts: Dance: Choreography and Performance", "Performing Arts: Dance Science", "Performing Arts: Music: Instrumental Concentration", "Performing Arts: Music: Vocal Concentration", "Performing Arts: Theatre: Design and Technical Theatre Concentration", "Performing Arts: Theatre: Performance and Theatre Studies Concentration", "Performing Arts", "Theatre"],
+      "PHIL": ["Philosophy"],
+      "PHYSI": ["Physics"],
+      "POL": ["Politics", "Law & Society", "Law", "Political Science"],
+      "PSYCH": ["Psychology: Behavioral Neuroscience Concentration", "Psychology: Child/Adolescent Development Concentration", "Psychology: Clinical/Counseling Concentration", "Psychology: General", "Psychology: Social Psychology Concentration", "Psychology"],
+      "SOC": ["Sociology"],
+      "TED": ["Teacher Education", "Education"],
+      "THTR": ["Theatre: Design and Technical Theatre Concentration", "Theatre: Performance and Theatre Studies Concentration"],
+      "TRS": ["Theology & Religious Studies"],
+      "WGS": ["Women’s and Gender Studies"],
+      "World Languages & Culture": ["Spanish", "French Studies", "East Asain Studies", "French Studies", "Italian Studies", "Spanish"],
+      "WRIT": ["Professional Writing Certificate"]
+    },
+    "school_dict": {
+      "School of Economics and Business Administration": ["ACCTG", "BSAN", "BUSAD", "DATA", "ECON", "FIN", "MKT", "ORB"],
+      "Kalmanovitz School of Education": ["TED", "LDSH"],
+      "School of Science": ["BIOCHEM", "BIOL", "CHEM", "CS", "MATH", "PHYSI", "HS", "EES", "PSYCH"],
+      "School of Liberal Arts": ["ANTH", "ART / AH", "CLSL", "COMM", "DANCE", "ENGL", "ES", "GRS", "HIST", "INTEG", "JCL", "KINES", "MUSIC", "PERFA", "PHIL", "POL", "SOC", "THTR", "WGS", "World Languages & Culture", "WRIT"]
+    },
+    "school_abbrev_dict": {
+      "SEBA": ["School of Economics and Business Administration"],
+      "KSOE": ["Kalmanovitz School of Education"],
+      "SOS": ["School of Science"],
+      "SOLA": ["School of Liberal Arts"]
+    }
+  }
+  

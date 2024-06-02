@@ -1,0 +1,3 @@
+OPENAI_API_KEY = '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'
+
+PASSWORD = "smcalumni"
